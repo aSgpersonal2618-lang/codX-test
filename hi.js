@@ -1,2 +1,2 @@
 // hi
-aws id - dsbcndsencjrnv#84
+process.env.AWS_ID
